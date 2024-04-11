@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "77dd",
+      "cityName": "Peasemore",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "notes": "",
+      "date": "2024-04-09T09:01:39.693Z",
+      "position": {
+        "lat": "51.473302189075945",
+        "lng": "-1.3513183593750002"
+      }
+    },
+    {
+      "id": "d563",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "notes": "",
+      "date": "2024-04-09T09:02:35.807Z",
+      "position": {
+        "lat": "30.05549911789502",
+        "lng": "31.234130859375004"
+      }
+    }
+  ]
+}

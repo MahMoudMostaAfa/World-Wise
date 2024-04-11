@@ -1,0 +1,11 @@
+.app {
+  height: 90vh;
+  padding: 2.4rem;
+
+  overscroll-behavior-y: none;
+  display: flex;
+  position: relative;
+  /* @media screen and (max-width: 40.6em) {
+    padding: 0;
+  } */
+}
